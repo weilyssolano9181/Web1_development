@@ -7,3 +7,5 @@ class profile(models.Model):
     age = models.IntegerField()
     status = models.BooleanField(default=True)
     
+    
+    #COMENTARIOS A SUBIR
